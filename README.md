@@ -16,6 +16,8 @@ Installation & Execution
 3. **Build and generate data**:
    
    make run
+
+   ./dsp_filter > output.csv
    
 5. **Visualize results**:
    
